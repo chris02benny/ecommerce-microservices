@@ -10,7 +10,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  DOCKER_USERNAME: iamsajo
+  DOCKER_USERNAME: iamsajo1
   DOCKER_PASSWORD: Sajo@0000  # ⚠️ Avoid hardcoding credentials
   IMAGE_PREFIX: iamsajo
 
